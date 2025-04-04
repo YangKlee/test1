@@ -6,14 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    <h1>Hello eeeqqq</h1>
-=======
-    <h1>Hello eeee</h1>
->>>>>>> Stashed changes
-=======
-    <h1>Hello eeee</h1>
->>>>>>> Stashed changes
+
 </body>
 </html>
